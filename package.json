@@ -1,0 +1,26 @@
+{
+  "name": "pruebas-curso",
+  "version": "1.0.0",
+  "description": "curso",
+  "main": "index.js",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "ejs": "^2.7.1",
+    "express": "^4.17.1",
+    "morgan": "^1.9.1"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.4"
+  },
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "curso",
+    "nodejs",
+    "español"
+  ],
+  "author": "santiago",
+  "license": "ISC"
+}
